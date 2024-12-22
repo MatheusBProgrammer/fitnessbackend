@@ -8,7 +8,6 @@ public class TreinoRotina {
 
     @Id
     private String id;
-
     private String treinoId;
     private String exercicioId;
 
